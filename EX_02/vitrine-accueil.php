@@ -1,5 +1,10 @@
 <!DOCTYPE html>
 
+
+<?php $nav_en_cours = 'accueil'; ?>
+
+
+
 <html>
 
     <head>
